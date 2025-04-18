@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef141&height=120&section=header"/>
 
 <div align="center">
-  <img height="150" src="https://i.redd.it/9afw8pj2nmpc1.gif"  />
+  <img height="300" src="https://i.redd.it/9afw8pj2nmpc1.gif"  />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Oii;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 
 <h2 align="center">☆⋆｡𖦹°‧★ Rede Social ☆⋆｡𖦹°‧★</h2>
 
-<div >
+<div align="center" >
   <a href="https://instagram.com/evaristgio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple"</a>
  <a href=""></a>
 
