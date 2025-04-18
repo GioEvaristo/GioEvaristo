@@ -24,4 +24,4 @@
   <a href="https://instagram.com/evaristgio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple"</a>
  <a href=""></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef141&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f465cf&height=120&section=footer"/>
