@@ -4,7 +4,7 @@
   <img height="300" src="https://i.redd.it/9afw8pj2nmpc1.gif"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mystery+Quest&pause=1000&color=F787EC&width=435&lines=Oi!+%E2%80%A6%E1%98%9B%E2%81%90%CC%A4%E1%95%90%E1%90%B7;+Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mystery+Quest&size=40&pause=1000&color=F787EC&center=true&width=435&lines=Oi!+%E2%80%A6%E1%98%9B%E2%81%90%CC%A4%E1%95%90%E1%90%B7;+Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <h2 align="center">☆⋆｡𖦹°‧★ 3º Informática CEFET-MG Varginha ☆⋆｡𖦹°‧★</h2>
 
